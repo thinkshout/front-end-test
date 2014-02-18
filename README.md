@@ -9,7 +9,7 @@ In order to evaluate your front-end development skills, we'd like you to create 
 * Style the page title, field labels, and background of the submit button as orange (#F58025).
 * Use LESS to write the CSS to style the form by linking the LESS javascript compiler. 
 
-ThinkShout will provide a public repository containing the scaffolding for the test. Fork the repository to complete the test and publish it using GitHub pages.As a bonus, submit a pull request when complete.
+ThinkShout will provide a public repository containing the scaffolding for the test.
 
 ### Desktop
 ![desktop](https://raw.github.com/thinkshout/front-end-test/gh-pages/docs/desktop.png)
