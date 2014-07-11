@@ -12,7 +12,7 @@ In order to evaluate your front-end development skills, we'd like you to create 
  
 ThinkShout will provide a public repository containing the scaffolding for the test.
 
-### Desktop
+### Desktop/Tablet
 ![desktop](https://raw.github.com/thinkshout/front-end-test/gh-pages/docs/desktop.png)
 
 ### Mobile
